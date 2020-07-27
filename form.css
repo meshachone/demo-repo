@@ -1,0 +1,51 @@
+body{
+    padding-top: 0 10 0 10px;
+    margin: 0 10 0 10px;
+    font-size: medium;
+    letter-spacing: 1px;
+
+}
+h1{
+    text-align: center;
+    color: #c4c0e5;
+}
+
+h2{
+text-align: center;
+font-size: 150%;
+color: #c4c0e5;
+}
+
+#form{
+   width: 700px;
+   font-size: medium;
+   font-family: sans-serif; 
+}
+
+textarea{
+  resize: none;  
+  border-color: darkblue;
+  transition: ease-in 0.5s;
+}
+
+#header{
+    border: 100%;
+    border-width: thin;
+    background-color: burlywood
+    text-align: center;
+    
+}
+
+#wrapper{
+    padding: 10px;
+    margin: 10px;
+    background-color: gainsboro;
+}
+.my-input{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    line-height: 2em;
+    border-color: darkblue;
+    transition: ease-in 0.5s;
+    
+}
